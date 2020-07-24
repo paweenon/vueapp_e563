@@ -1,13 +1,7 @@
 <template>
   <div>
-    <h1>Paweenon {{ name }} </h1>
+    <v-container grid-list>
+      <h1>paweenon</h1>
+    </v-container>
   </div>
 </template>
-
-<script>
-export default {
-  data:() => ({
-     name:"chaiyaphum008"
- })
-}
-</script>
